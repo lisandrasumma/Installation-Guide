@@ -1,0 +1,26 @@
+{
+"name": "installation-guidezkskongt100wu",
+"version": "1.0.0",
+"description": "Installing this project is straightforward, requiring only a few simple steps to set up and start using its functionalities.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/lisandrasumma/Installation-Guide.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "lisandrasumma",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
